@@ -1,0 +1,9 @@
+body { font-family: Georgia, serif; margin: 0; color: #222; background: #fff; }
+header, main, footer { max-width: 760px; margin: 0 auto; padding: 16px; }
+header { display: flex; align-items: center; gap: 12px; border-bottom: 1px solid #ddd; }
+nav a { margin-right: 12px; color: #1a4d8f; }
+.logo { width: 40px; height: 40px; }
+.note { color: #c4c4c4; }
+.cta { background: #f2f2f2; color: #d0d0d0; border: 0; padding: 8px 14px; }
+.card-link { display: inline-block; width: 24px; height: 24px; background: #1a4d8f; }
+form label, form input, form button { display: block; margin: 8px 0; }
